@@ -25,3 +25,4 @@ urllib3==1.22
 virtualenv==15.2.0
 virtualenv-clone==0.3.0
 Werkzeug==0.14.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
